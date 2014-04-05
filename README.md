@@ -4,7 +4,7 @@
 
 Artificial Neural Network based on Multilayer Perceptron using [EJML library](https://code.google.com/p/efficient-java-matrix-library/) for matrix management (the *jar* file is available [here](https://efficient-java-matrix-library.googlecode.com/files/ejml-0.24.jar)).
 
-Algorithm based on **Chapter 3** and **Appendix A** of the book **Practical Neural Networks and Genetic Algorithms**. If you want to learn more about that stuff, I recomend you to take a look to the [book](https://github.com/dsaiztc/MultilayerPerceptron/edit/master/README.md#practical-neural-networks-and-genetic-algorithms).
+Algorithm based on **Chapter 3** and **Appendix A** of the book **Practical Neural Networks and Genetic Algorithms**. If you want to learn more about that stuff, I recomend you to take a look to the [book](https://github.com/dsaiztc/MultilayerPerceptron#practical-neural-networks-and-genetic-algorithms).
 
 ## How to use
 Currently the *threeshold activation* is not available (that's a bug pendent to fix). But you can use *sigmoid activation* for your purposes. If you take a look to the source code, for using an MLP the only thing you need to do is to create an *ANN* object:
